@@ -16,6 +16,12 @@ About: software engineering developer!<br/>
 Programming languages: JavaScript, Html, Css and plenty of other <br/>
 Email: sarah@gmail.com
 
+Name: [Aimee](https://github.com/rainaime)<br/>
+Place: Canada<br/>
+About: CS student and cat lover<br/>
+Programming languages: Python, Java, JavaScript, HTML, CSS, C, C++, Ruby <br/>
+Email: aimee.rainsford@gmail.com
+
 Name: Argha Sen (https://github.com/arghasen)<br/>
 Place: India<br/>
 About: Coding | Finance<br/>
